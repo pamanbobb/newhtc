@@ -1,0 +1,51 @@
+[
+    {
+        "id": "SFI",
+        "valid": true,
+        "created": "10-11-2021"
+    },
+    {
+        "id": "DOGE",
+        "valid": true,
+        "created": "10-11-2021"},
+    {
+        "id": "ZIL",
+        "valid": true,
+        "created": "10-11-2021"
+    },
+    {
+        "id": "BTC",
+        "valid": true,
+        "created": "10-11-2021"
+    },
+    {
+        "id": "ETH",
+        "valid": true,
+        "created": "10-11-2021"
+    },
+    {
+        "id": "XDC",
+        "valid": true,
+        "created": "10-11-2021"
+    },
+    {
+        "id": "OCTO",
+        "valid": true,
+        "created": "10-11-2021"
+    },
+    {
+        "id": "BAR",
+        "valid": true,
+        "created": "10-11-2021"
+    },
+    {
+        "id": "RVN",
+        "valid": true,
+        "created": "10-11-2021"
+    },
+    {
+        "id": "TRON",
+        "valid": true,
+        "created": "10-11-2021"
+    }
+]
